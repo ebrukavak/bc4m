@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bc4m-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-13T10:06:15.982035898Z"
+    description: A Helm chart for Kubernetes
+    digest: 235633c8a69e402af43c46bda2188ddd19a81b1bea72e4b94e8f177579a4dc12
+    name: bc4m-chart
+    type: application
+    urls:
+    - bc4m-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-13T10:06:15.981238049Z"
